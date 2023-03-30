@@ -1,0 +1,6 @@
+.heading{
+    font-family: var(--title-font);
+    font-size: 2.6rem;
+    color: #d7d7d7;
+    margin: 2rem 0;
+}
