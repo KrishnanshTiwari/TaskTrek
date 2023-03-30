@@ -1,5 +1,5 @@
 import React from "react";
-import User from "./User";
+
 import { Routes, Route } from "react-router-dom";
 import "./App.css";
 
